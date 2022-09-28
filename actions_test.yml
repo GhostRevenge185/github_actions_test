@@ -1,0 +1,5 @@
+name: "GitHub Actions test"
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps: echo "Hello, World"
